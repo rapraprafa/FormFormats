@@ -1,0 +1,14 @@
+C:\Users\Rafamus\source\repos\FormFormats\bin\Debug\FormFormats.exe.config
+C:\Users\Rafamus\source\repos\FormFormats\bin\Debug\FormFormats.exe
+C:\Users\Rafamus\source\repos\FormFormats\bin\Debug\FormFormats.pdb
+C:\Users\Rafamus\source\repos\FormFormats\bin\Debug\FormFormats.xml
+C:\Users\Rafamus\source\repos\FormFormats\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rafamus\source\repos\FormFormats\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rafamus\source\repos\FormFormats\obj\Debug\FormFormats.vbprojAssemblyReference.cache
+C:\Users\Rafamus\source\repos\FormFormats\obj\Debug\FormFormats.Form1.resources
+C:\Users\Rafamus\source\repos\FormFormats\obj\Debug\FormFormats.Resources.resources
+C:\Users\Rafamus\source\repos\FormFormats\obj\Debug\FormFormats.vbproj.GenerateResource.cache
+C:\Users\Rafamus\source\repos\FormFormats\obj\Debug\FormFormats.vbproj.CopyComplete
+C:\Users\Rafamus\source\repos\FormFormats\obj\Debug\FormFormats.exe
+C:\Users\Rafamus\source\repos\FormFormats\obj\Debug\FormFormats.xml
+C:\Users\Rafamus\source\repos\FormFormats\obj\Debug\FormFormats.pdb
